@@ -10,3 +10,9 @@ wiki/
 
 # Results
 output/
+
+# ShapeNet
+ShapeNet/
+
+# Environment
+py3/
